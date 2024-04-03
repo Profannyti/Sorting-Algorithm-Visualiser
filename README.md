@@ -1,3 +1,5 @@
+![sorting](https://github.com/Profannyti/Sorting_Algorithm_Visualiser-Profannyti/assets/143685475/5bc17cad-b9ff-4baf-a774-f4d466cc2bbc)
+
 
 # Sorting Algorithm Visualization - Profannyti's Version
 This Python program provides a visualization of sorting algorithms, allowing users to observe the step-by-step process of sorting a list using various algorithms. The visualization includes real-time updates as the algorithms progress.
